@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-![Yulv-git's github stats](https://github-readme-stats.vercel.app/api?username=Yulv-git&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
--->
-
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
