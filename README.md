@@ -12,7 +12,7 @@
 <font size=5><center><big><b> Hello! I'm Yulv. 👋 </b></big></center></font>
 
 - 🌱 I'm currently learning AI research algorithms - computer vision.
-- 😄 I'm interested in ML/DL, computer vision, medical image computing.
+- 😄 I'm interested in ML/DL, computer vision, medical image computing, etc.
 - 📫 yulvchi@qq.com
 <!-- - 🔭 I'm currently working on ... -->
 <!-- - 👯 I'm looking to collaborate on ... -->
